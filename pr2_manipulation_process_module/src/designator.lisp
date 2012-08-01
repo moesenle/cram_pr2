@@ -96,5 +96,3 @@
     (desig-prop ?desig (obj ?obj))
     (desig-prop ?desig (at ?loc))
     (obstacles ?desig ?obstacles)))
-
-
